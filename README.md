@@ -8,6 +8,8 @@ This is the demo git repository for the class
 
 * Maybe add a disclaimer that it's a work-in-proress, etc.
 
+a non breaking offline change
+
 ```{r}
 
 print("some demo R code")
